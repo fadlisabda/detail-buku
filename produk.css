@@ -1,0 +1,25 @@
+.tes{
+	text-decoration: none;
+	color: black;
+}
+
+.image1{
+	background-size: cover;
+	background-image: url(java.jpg);
+	width: 190px;
+	height: 219px;
+}
+
+.image2{
+	background-size: cover;
+	background-image: url(web1.jpg);
+	width: 190px;
+	height: 285px;
+}
+
+.image3{
+	background-size: cover;
+	background-image: url(HTML5.jpg);
+	width: 210px;
+	height: 285px;
+}
